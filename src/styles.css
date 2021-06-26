@@ -1,0 +1,22 @@
+
+htlm, body {
+    height:100%;
+}
+
+#sidebar {
+    height:100%;
+    min-height: 100vh;
+    min-width: 180px;
+}
+
+#imgUG
+{
+    background-image: url(/img/logo.png); 
+    height: 40px;
+    width: 40px;
+    align-items: center;
+}
+
+#fondo{
+    background-color: azure;
+}
